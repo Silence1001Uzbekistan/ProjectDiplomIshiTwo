@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PythonPlus</string>
+
+    <string name="header">Salom \nXush kelibsiz \nBugun nima o’rganmoqchisiz?</string>
+    <string name="python">Python</string>
+    <string name="python_title">Python Python umumiy maqsadli kodlash tili bo’lib, u HTML, CSS va JavaScript-dan farqli o’laroq, veb-ishlab chiqish bilan bir qatorda boshqa turdagi dasturlash va dasturiy ta’minotni ishlab chiqishda ham foydalanish mumkinligini anglatadi. Bunga backend ishlab chiqish, dasturiy ta’minotni ishlab chiqish, ma’lumotlar fanlari va tizim skriptlarini yozish kiradi.</string>
+
+    <string name="main_btn1">Python dasturlash tili</string>
+    <string name="main_btn1_title">Pythonga Xush Kelibsiz!</string>
+
+    <string name="main_btn2">Pythonda ma’lumot turlari</string>
+    <string name="main_btn2_title">Sonlar, Satrlar, List, Tuple, Set</string>
+
+    <string name="main_btn3">Python statements</string>
+    <string name="main_btn3_title">Mantiq elementlari, Operatorlar</string>
+
+    <string name="main_btn4">Funksiya va modullar</string>
+    <string name="main_btn4_title">Funksiyalar, Modullar, Sana, Vaqt</string>
+
+    <string name="main_btn5">Fayllar va istisnolar</string>
+    <string name="main_btn5_title">Fayllar, Istisnolar, User Input</string>
+
+    <string name="main_btn6">Pythonda OOP</string>
+    <string name="main_btn6_title">Class, Object, Inheritance</string>
+
+    <string name="main_btn7">Test Trenajyor</string>
+    <string name="main_btn7_title">O’zingizni sinab ko’ring!</string>
+
+    <string name="the_end">Xotima</string>
+    <string name="the_about">Biz haqimizda</string>
+
+    <string name="quiz_title">bo’yicha testlar</string>
+
+
+</resources>
